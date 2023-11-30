@@ -16,6 +16,11 @@
   - Percentage: 75.20
   - SVM Inter College, Unnao, UP, IN
   - Apr 2017 - Apr 2018
+ 
+- **High School**
+  - Percentage: 87.16
+  - SVM Inter College, Unnao, UP, IN
+  - Apr 2015 - Apr 2016   
 
 ## Skills
 <p align="left">  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
@@ -34,23 +39,19 @@
 ## Projects
 ### Noninvasive Blood glucose monitoring System
 *June 2023 - sep 2023*
-- Crafted a user-centric rental web app that significantly enhances convenience by making it 40% easier and quicker to search for houses.
-- This website facilitates direct owner communication, eliminating third-party involvement, saving users 30% in fees.
+- This project measures and shows the glucose level of blood with the use of IR sensors.
 - **Technical Stacks:** IOT
 
 ### Traffic Prediction Using ML 
 #### [Source Code](https://github.com/anubhavsingh28943/Traffic-Prediction-Model)
 *Sep 2022 - Dec 2022*
-- An expansive e-commerce web app, offering over 50 products, ensures seamless online browsing and secure, efficient purchasing.
-- Implemented the Stripe API for 100% secure payments, efficiently stored data in local storage, and delivered a modern interface design.
-- Revamped web app filters seamlessly integrate category, price, sorting, rating, and gender, yielding a 40% increase in user engagement.
+- Predicts the traffic condition in any particular area that depends upon the weather conditions, the day of the week and other important aspects that affects the traffic conditions.
 - **Technical Stacks:** Python, Machine learning, HTML, CSS, javaScript.
 
 ### Library Management System
 #### [Source Code](https://github.com/anubhavsingh28943/Library-Management-System)
 *Sep 2021 - Dec 2021*
-- Designed and architected a secure and user-centric NFT marketplace, facilitating the trade and exhibition of distinctive digital assets.
-- Enhanced NFT marketplace, delivering a seamless user experience with 30% faster browsing, buying, and selling capabilities.
+- A software that has been designed for the librarians to manage all the activities and tasks of a librarian like Search books(by author name, book title etc), Issue books, Reissue books etc.
 - **Technical Stacks:** Python, MySQL, HTML, CSS
 
 
