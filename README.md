@@ -1,6 +1,6 @@
 ## Experience
 ### Software developer Intern
-*Oct 2023 - present*
+*Sep 2023 - present*
 - Engineered a MERN web app, elevating online presence and boosting customer engagement with a 40% increase in product views.
 - Managed Ecentric India's backend, integrated shipping, and Stripe, yielding a 30% increase in successful transactions for the web app.
 - Implemented product comments, user/admin roles, and 2-currency support (INR/USD) for enhanced MERN app functionality.
